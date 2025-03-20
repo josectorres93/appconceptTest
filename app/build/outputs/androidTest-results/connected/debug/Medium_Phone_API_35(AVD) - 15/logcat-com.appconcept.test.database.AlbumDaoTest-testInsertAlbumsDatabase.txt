@@ -1,0 +1,4 @@
+03-20 13:07:58.479 20035 20052 I TestRunner: started: testInsertAlbumsDatabase(com.appconcept.test.database.AlbumDaoTest)
+03-20 13:07:58.596  1091  1307 D EGL_emulation: app_time_stats: avg=40010.54ms min=40010.54ms max=40010.54ms count=1
+03-20 13:07:58.890 12107 12107 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.audit.service.START pkg=com.google.android.gms }
+03-20 13:07:59.842 20035 20052 I TestRunner: finished: testInsertAlbumsDatabase(com.appconcept.test.database.AlbumDaoTest)

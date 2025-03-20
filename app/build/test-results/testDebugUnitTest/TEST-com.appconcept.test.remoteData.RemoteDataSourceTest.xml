@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.appconcept.test.remoteData.RemoteDataSourceTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2025-03-20T10:36:14" hostname="JTORRES" time="2.625">
+  <properties/>
+  <testcase name="test getAlbumList returns error" classname="com.appconcept.test.remoteData.RemoteDataSourceTest" time="2.617"/>
+  <testcase name="test getAlbumList returns success" classname="com.appconcept.test.remoteData.RemoteDataSourceTest" time="0.007"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

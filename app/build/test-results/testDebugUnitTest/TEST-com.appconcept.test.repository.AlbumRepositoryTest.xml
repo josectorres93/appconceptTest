@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.appconcept.test.repository.AlbumRepositoryTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2025-03-20T10:36:16" hostname="JTORRES" time="0.244">
+  <properties/>
+  <testcase name="test getAlbuns returns null on generic error" classname="com.appconcept.test.repository.AlbumRepositoryTest" time="0.189"/>
+  <testcase name="test getAlbumsFromDb returns albums from database" classname="com.appconcept.test.repository.AlbumRepositoryTest" time="0.025"/>
+  <testcase name="test getAlbuns success returns albums and saves to database" classname="com.appconcept.test.repository.AlbumRepositoryTest" time="0.022"/>
+  <testcase name="test getAlbuns returns null on network error" classname="com.appconcept.test.repository.AlbumRepositoryTest" time="0.007"/>
+  <system-out><![CDATA[[Album(albumId=1, id=10, title=Album 1, url=url1, thumbnailUrl=thumbnailUrl1)]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
