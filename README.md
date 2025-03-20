@@ -24,3 +24,10 @@ Is used when configuring the AsyncImagePainter for loading images in the AlbumIt
 Observer
 Is used to reactively update the UI based on changes in the data.
 Dependency Injection
+For dependency injection its used Hilt instead of dagger or koin because it simplifies the setup and usage of dependency injection in Android apps by automating much of the boilerplate code required in plain Dagger. For instance, you no longer need to manually define @Component interfaces or handle Subcomponents in Hilt. 
+
+Libs
+Room - simplifies the chores of database setup, configuration, and interactions with the app.
+Retrofit - simplifies integrating RESTful services 
+Coil - helps avoid the complexities of handling image loading manually by focusing on efficiently loading and caching images
+Compose - leverages a highly optimized rendering engine, which can result in better UI performance and efficiency compared to XML views
